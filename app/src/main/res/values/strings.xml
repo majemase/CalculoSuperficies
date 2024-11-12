@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">CalculoSuperficies</string>
+    <string name="app_name" translatable="false">CalculoSuperficies</string>
+    <string name="str_rect">Rectángulo</string>
+    <string name="str_cuadrado">Cuadrado</string>
+    <string name="str_circulo">Círculo</string>
+    <string name="str_triangulo">Triángulo</string>
+    <string name="str_rombo">Rombo</string>
+    <string name="str_penta">Pentágono</string>
+    <string name="str_hexa">Hexágono</string>
+    <string name="str_titulo">Superficie del</string>
+    <string name="str_ladomayor">Lado mayor</string>
+    <string name="str_ladomenor">Lado menor</string>
+    <string name="str_textocalcula">Introduzca estos datos:</string>
+    <string name="str_calcular">CALCULAR</string>
+    <string name="str_borrar">BORRAR</string>
+    <string name="str_ovalo">Óvalo</string>
 </resources>

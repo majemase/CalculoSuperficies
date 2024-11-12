@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_rect">Rectangle</string>
+    <string name="str_cuadrado">Square</string>
+    <string name="str_circulo">Circle</string>
+    <string name="str_triangulo">Triangle</string>
+    <string name="str_rombo">Rhombus</string>
+    <string name="str_penta">Pentagon</string>
+    <string name="str_hexa">Hexagon</string>
+    <string name="str_titulo">Surface of</string>
+    <string name="str_ladomayor">Major side</string>
+    <string name="str_ladomenor">Minor side</string>
+    <string name="str_textocalcula">Enter these data:</string>
+    <string name="str_calcular">CALCULATE</string>
+    <string name="str_borrar">CLEAR</string>
+    <string name="str_ovalo">Oval</string>
+</resources>
