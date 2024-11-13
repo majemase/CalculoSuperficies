@@ -14,4 +14,11 @@
     <string name="str_calcular">CALCULATE</string>
     <string name="str_borrar">CLEAR</string>
     <string name="str_ovalo">Oval</string>
+    <string name="str_radio">Radius</string>
+    <string name="str_lado">Side</string>
+    <string name="str_altura">Height</string>
+    <string name="str_diagonalmayor">Major diagonal</string>
+    <string name="str_diagonalmenor">Minor diagonal</string>
+    <string name="str_radiomenor">Minor radius</string>
+    <string name="str_radiomayor">Major radius</string>
 </resources>

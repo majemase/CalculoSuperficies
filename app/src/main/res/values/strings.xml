@@ -14,4 +14,11 @@
     <string name="str_calcular">CALCULAR</string>
     <string name="str_borrar">BORRAR</string>
     <string name="str_ovalo">Óvalo</string>
+    <string name="str_radio">Radio</string>
+    <string name="str_lado">lado</string>
+    <string name="str_altura">altura</string>
+    <string name="str_diagonalmayor">Diagonal mayor</string>
+    <string name="str_diagonalmenor">Diagonal menor</string>
+    <string name="str_radiomenor">Radio menor</string>
+    <string name="str_radiomayor">Radio mayor</string>
 </resources>
